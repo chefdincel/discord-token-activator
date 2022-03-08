@@ -3,7 +3,7 @@ Paketi oluşturan benim ve tüm hakları bana aittir. Kullanmaya başlamadan ön
 ###
 I am the creator of the package and all rights belong to me. Do not forget to install the modules before starting to use.
 ###
-discord : mert#9999 | https://github.com/luvandevx
+discord : mert#9999
 
 ### Kurulum / Installation
 1) Son versiyonunu GitHub üzerinden indiriniz.
