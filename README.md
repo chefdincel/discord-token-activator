@@ -1,4 +1,4 @@
-### Hakkında / Information
+### Information
 
 I am the creator of the package and all rights belong to me. Do not forget to install the modules before starting to use.
 ###
